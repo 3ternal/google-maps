@@ -1,0 +1,25 @@
+#map {
+  margin-top: 20px;
+  height: 500px;
+}
+
+.container {
+  width: 50%;
+  margin: 20px auto;
+}
+
+input {
+  width: 50px;
+}
+
+input#comment {
+  width: 100px;
+}
+
+input#submit {
+  width: auto;
+}
+
+form {
+  text-align: center;
+}
